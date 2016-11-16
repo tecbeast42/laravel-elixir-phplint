@@ -1,7 +1,7 @@
 {
-  "name": "laravel-elixir-phplint",
-  "version": "0.2.0",
-  "description": "PHPLint Plugin for Laravel's Elixir",
+  "name": "laravel-elixir-6-phplint",
+  "version": "1.0.0",
+  "description": "PHPLint Plugin for Laravel's Elixir. This package is a fork of huntwj/laravel-elixir-phplint. It seems the project is abandond.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error. No tests yet written. :(\" && exit 1"
@@ -19,9 +19,9 @@
   "author": "Wil Hunt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/huntwj/laravel-elixir-phplint/issues"
+    "url": "https://github.com/tecbeast42/laravel-elixir-phplint/issues"
   },
-  "homepage": "https://github.com/huntwj/laravel-elixir-phplint#readme",
+  "homepage": "https://github.com/tecbeast42/laravel-elixir-phplint#readme",
   "dependencies": {
     "gulp-phplint": "^0.3.2"
   }

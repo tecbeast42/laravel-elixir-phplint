@@ -1,6 +1,10 @@
 # laravel-elixir-phplint
 
+> Support for Laravel Elixir 6+
+
 ## Install
+
+> This package is a fork of huntwj/laravel-elixir-phplint. It seems the project is abandond.
 
 ```bash
 $ npm install laravel-elixir-phplint --save-dev
@@ -42,6 +46,5 @@ elixir(function(mix) {
 
 ## Credits
 
-The general form and structure as well as some code snippets of this plugin were borrowed 
+The general form and structure as well as some code snippets of this plugin were borrowed
 (or viciously stolen?) from the ponko2/laravel-elixir-eslint project on Github.
-
